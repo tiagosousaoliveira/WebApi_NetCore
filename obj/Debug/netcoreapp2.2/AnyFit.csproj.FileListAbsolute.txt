@@ -1,0 +1,6 @@
+C:\Users\tiago.sousa\Documents\Outros\AnyFit\obj\Debug\netcoreapp2.2\AnyFit.csproj.CoreCompileInputs.cache
+C:\Users\tiago.sousa\Documents\Outros\AnyFit\obj\Debug\netcoreapp2.2\AnyFit.AssemblyInfoInputs.cache
+C:\Users\tiago.sousa\Documents\Outros\AnyFit\obj\Debug\netcoreapp2.2\AnyFit.AssemblyInfo.cs
+C:\Users\tiago.sousa\Documents\Outros\AnyFit\obj\Debug\netcoreapp2.2\AnyFit.csprojAssemblyReference.cache
+C:\Users\tiago.sousa\Documents\Outros\AnyFit\obj\Debug\netcoreapp2.2\AnyFit.RazorAssemblyInfo.cache
+C:\Users\tiago.sousa\Documents\Outros\AnyFit\obj\Debug\netcoreapp2.2\AnyFit.RazorAssemblyInfo.cs
